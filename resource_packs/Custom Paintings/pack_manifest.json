@@ -1,0 +1,16 @@
+{
+  "header": {
+    "pack_id": "7de2aec0-73b0-44b3-7a4a-39d27ea8d287",
+    "name": "ZS-TGC Paintings",
+    "packs_version": "1.0.0",
+    "description": "Edited Custom 2x2 Paintings",
+    "modules": [
+      {
+        "description": "Edited Custom 2x2 Paintings",
+        "version": "1.0.0",
+        "uuid": "7de2aec0-73b0-44b3-7a4a-39d27ea8d287",
+        "type": "resources"
+      }
+    ]
+  }
+}

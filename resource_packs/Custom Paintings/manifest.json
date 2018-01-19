@@ -1,0 +1,17 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Edited Custom 2x2 Paintings",
+      "name" : "ZS-TGC Paintings",
+      "uuid" : "da5b0eff-bf78-4e6f-b31f-4ec8790b534c",
+      "version" : [ 1, 0, 1 ]
+   },
+   "modules" : [
+      {
+         "description" : " Edited Custom 2x2 Paintings ",
+         "type" : "resources",
+         "uuid" : "6baa5a79-07c8-4f50-88a7-55f67af3032e",
+         "version" : [ 1, 0, 1 ]
+      }
+   ]
+}
